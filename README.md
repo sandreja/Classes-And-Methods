@@ -1,6 +1,7 @@
 Pravljenje Klasa i Metoda / Introduction to Classes and Methods
 
 EN
+
 This project covers the basics of object-oriented programming in Java. The focus was on understanding how to define and use classes and methods.
 
 What I practiced:
@@ -12,6 +13,7 @@ Understanding the relationship between classes and objects
 Calling methods and passing parameters
 
 SR
+
 Ovaj projekat pokriva osnove objektno-orijentisanog programiranja u Javi. Fokus je bio na razumevanju kako se definišu i koriste klase i metode.
 
 Šta sam vežbao:
