@@ -1,5 +1,3 @@
-Pravljenje Klasa i Metoda / Introduction to Classes and Methods
-
 EN
 
 This project covers the basics of object-oriented programming in Java. The focus was on understanding how to define and use classes and methods.
